@@ -48,4 +48,4 @@ spring.jpa.hibernate.ddl-auto=update
 
 ## Licencia
 
-Este proyecto está licenciado bajo la Licencia MIT - consulta el archivo LICENSE para más detalles.
+Este proyecto está licenciado bajo la Licencia MIT.
