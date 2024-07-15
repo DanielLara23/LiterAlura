@@ -1,4 +1,4 @@
-# Biblioteca Literaria
+# LiterAlura
 
 Este proyecto es una aplicación de gestión de libros y autores, que permite buscar libros, listar autores, y realizar consultas sobre obras literarias a través de una API externa.
 
